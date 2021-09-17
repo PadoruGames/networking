@@ -1,0 +1,17 @@
+{
+    "name": "Padoru.Networking.Editor",
+    "references": [
+        "GUID:900c0aa655ed358449d83565a55d5055"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
